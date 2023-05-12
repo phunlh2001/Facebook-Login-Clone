@@ -1,8 +1,10 @@
 ## Facebook Login Layout
 
-### How to clone project?
+![image](./facebook-login.png)
 
-#### Prerequisites
+## How to clone project?
+
+### Prerequisites
 Make sure you already have Android Studio IDE and Git.
 
 1. Git
@@ -14,7 +16,7 @@ https://git-scm.com/
 https://developer.android.com/studio
 ```
 
-#### Clone project
+### Clone project
 1. Open empty folder, right-click, click `Git Bash Here`
 2. In Git CMD, copy the URL field
 ```bash
