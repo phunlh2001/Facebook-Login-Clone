@@ -17,9 +17,10 @@ https://developer.android.com/studio
 ```
 
 ### Clone project
-1. Open empty folder, right-click, click `Git Bash Here`
-2. In Git CMD, copy the URL field
+1. Open Android Studio
+2. Click `Get from VSC` button on the upper-right corner
+3. Copy the URL field
 ```bash
 https://github.com/phunlh2001/Facebook-Login-Clone.git
 ```
-3. Open Android Studio IDE and Enjoy!!
+3. Click clone and Enjoy!!
