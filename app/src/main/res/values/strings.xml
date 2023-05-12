@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Facebook Login</string>
+    <string name="image_desc">Facebook logo image</string>
+    <string name="change_color">Change</string>
+    <string name="email_hint">Email or Phone</string>
+    <string name="password_hint">Password</string>
+    <string name="btn_login">LOG IN</string>
+    <string name="sign_up">Sign Up for Facebook</string>
+    <string name="forgot_password">Forgot Password?</string>
+
+    <string-array name="languages">
+        <item>English</item>
+        <item>Tiếng Việt</item>
+        <item>Español</item>
+        <item>日本</item>
+        <item>Français</item>
+    </string-array>
+</resources>
